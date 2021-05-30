@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+div#example_length {
+    margin: 1rem;
+}
+div#example_filter {
+    margin: 1rem;
+}
+
+.dt-buttons.btn-group.flex-wrap {
+    position: relative;
+    top: -3.75rem;
+    left: 24%;
+}
